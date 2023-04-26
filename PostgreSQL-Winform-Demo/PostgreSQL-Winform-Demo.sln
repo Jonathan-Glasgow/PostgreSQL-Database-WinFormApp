@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostgreSQL-Winform-Project", "..\..\..\Downloads\Database-Design-FinalProjectSUPERFINAL\PostgreSQL-Winform-Project\PostgreSQL-Winform-Project.csproj", "{FF02488C-B6AA-4273-A84A-EE319834958A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF02488C-B6AA-4273-A84A-EE319834958A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF02488C-B6AA-4273-A84A-EE319834958A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF02488C-B6AA-4273-A84A-EE319834958A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF02488C-B6AA-4273-A84A-EE319834958A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B813273-8AF2-41AE-98BE-CD25D0099EE8}
+	EndGlobalSection
+EndGlobal
